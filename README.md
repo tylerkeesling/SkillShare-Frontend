@@ -15,6 +15,11 @@ You can check out SkillShare [here](https://skillshare.surge.sh). You can login 
 * [Express](https://expressjs.com/) - The Node.js framework used
 * [Knex.js](http://knexjs.org/) - SQL query builder for JavaScript
 
+## Use
+
+* Log in or sign up to see your profile and mentor suggestions
+![login](/assets/LoginAndEdit.gif)
+
 ## Authors
 
 * [Tyler Keesling](https://github.com/tylerkeesling)
