@@ -1,28 +1,23 @@
-# SkillShare Frontend
-Connect with people that you can learn from and who want to learn from you. Share your knowledge while simultaneously learning new skills. 🎥 Demo linked below! 👇🏼
+# SkillShare
 
-https://www.youtube.com/watch?v=myxCgDfd6xQ&feature=youtu.be
+[SkillShare](https://skillshare.surge.sh) is a mentor pairing application for individuals that are interested in both teaching and learning new technical skills. This was a group project completed in the program at Galvanize. This version has been further styled by me, but the original features are the same.
 
-## Built With (Front End)
-HTML, CSS, Materialize, JavaScript, and jQuery.
+## Getting Started
 
-## Built with (Back End)
-Knex, Node, Express, Amazon S3
+You can check out SkillShare [here](https://skillshare.surge.sh). You can login to Skillshare using the username 'tyler' and the password 'tyler'.
 
-## Deploy URL
-https://skillshare.surge.sh
+## Built With
 
-## Created By (linked to individual github acct):
-[Maria-Mata](https://github.com/maria-mata)
-<br>
-[Tyler Keesling](https://github.com/tylerkeesling)
-<br>
-[Logan Crewss](https://github.com/lcrewss)
-<br>
-[Yousif Altimimie](https://github.com/yousif83)
+* [JavaScript](https://www.javascript.com/) - The main programming language used
+* [jQuery](https://jquery.com/) - The JS library used
+* [Materialize](http://materializecss.com/) - The CSS framework used
+* [Node.js](https://nodejs.org/en/) - The backend JS programming language
+* [Express](https://expressjs.com/) - The Node.js framework used
+* [Knex.js](http://knexjs.org/) - SQL query builder for JavaScript
 
+## Authors
 
-## Wireframe
-
-![wireframe_homepage](https://user-images.githubusercontent.com/26422332/29132626-14554c00-7cee-11e7-83e6-a5ce63445722.png)
-![wireframe_screenshot](https://user-images.githubusercontent.com/26422332/29132634-1eb214c6-7cee-11e7-994e-4c4fbd69910b.png)
+* [Tyler Keesling](https://github.com/tylerkeesling)
+* [Maria-Mata](https://github.com/maria-mata)
+* [Logan Crewss](https://github.com/lcrewss)
+* [Yousif Altimimie](https://github.com/yousif83)
