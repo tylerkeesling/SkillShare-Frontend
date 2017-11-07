@@ -4,15 +4,15 @@ Connect with people that you can learn from and who want to learn from you. Shar
 https://www.youtube.com/watch?v=myxCgDfd6xQ&feature=youtu.be
 
 ## Built With (Front End)
-HTML, CSS, Materialize, JavaScript, and JQuery.
+HTML, CSS, Materialize, JavaScript, and jQuery.
 
 ## Built with (Back End)
-Knex, Node, Express
+Knex, Node, Express, Amazon S3
 
 ## Deploy URL
-https://skillshare-19db4.firebaseapp.com/
+https://skillshare.surge.sh
 
-## Created By (linked to individual github acct): 
+## Created By (linked to individual github acct):
 [Maria-Mata](https://github.com/maria-mata)
 <br>
 [Tyler Keesling](https://github.com/tylerkeesling)
