@@ -18,19 +18,16 @@ You can check out SkillShare [here](https://skillshare.surge.sh). You can login 
 ## Use
 
 * Log in or sign up to see your profile and mentor suggestions
-![login](/assets/LoginAndEdit.gif)
+    ![login](/assets/LoginAndEdit.gif)
 
 * Send a connection request to a potential mentor
-
-![connect](/assets/ConnectionRequest.gif)
+    ![connect](/assets/ConnectionRequest.gif)
 
 * Edit your own skills
-
-![edit-skills](/assets/ChangeSkills.gif)
+    ![edit-skills](/assets/ChangeSkills.gif)
 
 * Accept or deny a connection request
-
-![accept](/assets/BeOtherUser.gif)
+    ![accept](/assets/BeOtherUser.gif)
 
 ## Authors
 
